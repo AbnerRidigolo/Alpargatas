@@ -1,11 +1,11 @@
 
-# 📈 Projeto: Estratégia Anti-Crise com ALPA4 usando Médias Móveis
+# Projeto: Estratégia Anti-Crise com ALPA4 usando Médias Móveis
 
 Este projeto testa uma **estratégia de investimento baseada em Análise Técnica**, utilizando o **cruzamento de médias móveis** no ativo **ALPA4 (Alpargatas S.A)**. O objetivo é avaliar se essa estratégia teria superado o desempenho da ação e do índice Ibovespa entre 2021 e 2025.
 
 ---
 
-## 🧠 Desafio
+##  Desafio
 
 Desenvolver e validar um modelo quantitativo simples que:
 
@@ -16,7 +16,7 @@ Desenvolver e validar um modelo quantitativo simples que:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3.x
 - [yfinance](https://pypi.org/project/yfinance/) — para extração dos dados históricos da bolsa
@@ -26,7 +26,7 @@ Desenvolver e validar um modelo quantitativo simples que:
 
 ---
 
-## ⚙️ Etapas do Projeto
+##  Etapas do Projeto
 
 1. **Importação de bibliotecas**
 2. **Coleta dos dados históricos do ativo ALPA4 (Yahoo Finance)**
@@ -40,7 +40,7 @@ Desenvolver e validar um modelo quantitativo simples que:
 
 ---
 
-## 💡 Estratégia de Médias Móveis
+## Estratégia de Médias Móveis
 
 - **Média Rápida**: 7 dias  
 - **Média Lenta**: 40 dias
@@ -49,7 +49,7 @@ Desenvolver e validar um modelo quantitativo simples que:
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 - A estratégia gerou retornos superiores ao **buy and hold** da própria ALPA4.
 - Houve momentos em que **proteger o capital** foi mais vantajoso que manter a ação comprada.
@@ -57,7 +57,7 @@ Desenvolver e validar um modelo quantitativo simples que:
 
 ---
 
-## 📦 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 
@@ -80,7 +80,7 @@ jupyter notebook aula_1_alpa4_mm.ipynb
 
 ---
 
-## ✅ Requisitos
+##  Requisitos
 
 Você pode criar um `requirements.txt` com:
 
